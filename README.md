@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Ashish Yadav 👋
 
-<!--
-**ashishyadav-DS/ashishyadav-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final-Year BCA (Data Science) Student** at Parishkar College of Global Excellence, Jaipur (2027)  
+💻 Passionate about **Data Science, Machine Learning, Database Management (SQL/NoSQL), and Web Development**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+- **Programming & Web:** Python, HTML, CSS, Streamlit
+- **Data Science & ML:** Machine Learning Fundamentals, Data Analysis, Pandas, NumPy, Scikit-Learn
+- **Databases:** SQL, NoSQL (MongoDB)
+- **Core Strengths:** Logical Problem-Solving, Quick Learner, Adaptability
+
+---
+
+### 📫 Reach Out to Me
+- 📍 **Location:** Jaipur, Rajasthan
+- 📧 **Email:** ashishyk890@gmail.com
